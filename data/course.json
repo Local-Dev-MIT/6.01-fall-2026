@@ -1,0 +1,30 @@
+{
+  "term": "Fall",
+  "year": "2026",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "south-asian-music"
+  },
+  "course_image": {
+    "content": "",
+    "website": "south-asian-music"
+  },
+  "course_title": "South Asian Music",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "Iranian + Pakistani + Indian",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "MUSIC124",
+  "learning_resource_types": [],
+  "site_uid": "7c6cf815-a69a-4a71-bc93-5297018cbadc",
+  "site_short_id": "6.01-fall-2026",
+  "site_url_path": "courses/music124-south-asian-music-fall-2026"
+}
